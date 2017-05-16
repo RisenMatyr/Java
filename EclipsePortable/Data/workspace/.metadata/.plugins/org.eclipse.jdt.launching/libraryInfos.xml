@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="Q:\_eDesk\Brosius\EclipsePortable\App\Eclipse" version="1.8.0_66">
+<bootpath>
+<entry path="Q:\_eDesk\Brosius\EclipsePortable\App\Eclipse\jre\lib\resources.jar"/>
+<entry path="Q:\_eDesk\Brosius\EclipsePortable\App\Eclipse\jre\lib\rt.jar"/>
+<entry path="Q:\_eDesk\Brosius\EclipsePortable\App\Eclipse\jre\lib\sunrsasign.jar"/>
+<entry path="Q:\_eDesk\Brosius\EclipsePortable\App\Eclipse\jre\lib\jsse.jar"/>
+<entry path="Q:\_eDesk\Brosius\EclipsePortable\App\Eclipse\jre\lib\jce.jar"/>
+<entry path="Q:\_eDesk\Brosius\EclipsePortable\App\Eclipse\jre\lib\charsets.jar"/>
+<entry path="Q:\_eDesk\Brosius\EclipsePortable\App\Eclipse\jre\lib\jfr.jar"/>
+<entry path="Q:\_eDesk\Brosius\EclipsePortable\App\Eclipse\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="Q:\_eDesk\Brosius\EclipsePortable\App\Eclipse\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="Q:\_eDesk\Brosius\EclipsePortable\App\Eclipse\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="Q:\_eDesk\Brosius\EclipsePortable\App\Eclipse\jre" version="1.8.0_66">
+<bootpath>
+<entry path="Q:\_eDesk\Brosius\EclipsePortable\App\Eclipse\jre\lib\resources.jar"/>
+<entry path="Q:\_eDesk\Brosius\EclipsePortable\App\Eclipse\jre\lib\rt.jar"/>
+<entry path="Q:\_eDesk\Brosius\EclipsePortable\App\Eclipse\jre\lib\sunrsasign.jar"/>
+<entry path="Q:\_eDesk\Brosius\EclipsePortable\App\Eclipse\jre\lib\jsse.jar"/>
+<entry path="Q:\_eDesk\Brosius\EclipsePortable\App\Eclipse\jre\lib\jce.jar"/>
+<entry path="Q:\_eDesk\Brosius\EclipsePortable\App\Eclipse\jre\lib\charsets.jar"/>
+<entry path="Q:\_eDesk\Brosius\EclipsePortable\App\Eclipse\jre\lib\jfr.jar"/>
+<entry path="Q:\_eDesk\Brosius\EclipsePortable\App\Eclipse\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="Q:\_eDesk\Brosius\EclipsePortable\App\Eclipse\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="Q:\_eDesk\Brosius\EclipsePortable\App\Eclipse\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="G:\CLASS\EclipsePortable\App\Eclipse" version="1.8.0_66">
+<bootpath>
+<entry path="G:\CLASS\EclipsePortable\App\Eclipse\jre\lib\resources.jar"/>
+<entry path="G:\CLASS\EclipsePortable\App\Eclipse\jre\lib\rt.jar"/>
+<entry path="G:\CLASS\EclipsePortable\App\Eclipse\jre\lib\sunrsasign.jar"/>
+<entry path="G:\CLASS\EclipsePortable\App\Eclipse\jre\lib\jsse.jar"/>
+<entry path="G:\CLASS\EclipsePortable\App\Eclipse\jre\lib\jce.jar"/>
+<entry path="G:\CLASS\EclipsePortable\App\Eclipse\jre\lib\charsets.jar"/>
+<entry path="G:\CLASS\EclipsePortable\App\Eclipse\jre\lib\jfr.jar"/>
+<entry path="G:\CLASS\EclipsePortable\App\Eclipse\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="G:\CLASS\EclipsePortable\App\Eclipse\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="G:\CLASS\EclipsePortable\App\Eclipse\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
